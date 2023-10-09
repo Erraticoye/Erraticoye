@@ -1,5 +1,5 @@
-- 👋 Merhaba ben doruk han(@Erraticoye)
-- 🌱 şu anda python öğreniyorum
+- 👋 Merhaba ben Doruk Han(@Erraticoye)
+- 🌱 Şu Anda Öğrendiğim Dillerde Projeler yapıyorum(C#, Python, HTML, Javascript, CSS, Java(Fazla Kullanmıyorum))
 - 📫 email : eraticoye@gmail.com
 
 <!---
